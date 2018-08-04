@@ -4,8 +4,8 @@
   <description>
         Best Learning App for IIT
     </description>
-  <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+  <author href="http://moodle.com" email="abhishek@puucho.com">
+        Puucho Mobile team
     </author>
   <content src="index.html"/>
   <access origin="*"/>
